@@ -1,0 +1,2 @@
+0 with_bats
+1 without_bats

@@ -1,0 +1,9 @@
+copy folder to your computer
+
+right click on 'pleasedo' and press 'edit'
+
+paste the folder path of the videos to convert in place of the existing path
+
+save file
+
+to convert double click the file. (all videos in the specified folder will be converted.)
