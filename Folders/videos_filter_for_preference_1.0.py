@@ -123,6 +123,7 @@ def iteration_over_folder(original_files_path, converted_files_path, relevant_fi
 ################################################################################################################################
 
 if __name__ == "__main__":
+    session_name =input("Session name >>> ")
     iteration_over_folder(original_files_path, converted_files_path, relevant_files_path, img_path, model)
-    print("\nFINSHED")
+    print("\nFINSHED ", session_name)
     input("For approvel press enter or any other key >>> ")
