@@ -20,7 +20,7 @@ model = tensorflow.keras.models.load_model(model_path)
 original_files_path =  r"D:\YossiY4\Desktop\GitHub_Folder\AI_videos_filter\Folders\original_files"
 converted_files_path= r"D:\YossiY4\Desktop\GitHub_Folder\AI_videos_filter\Folders\converted_files"
 relevant_files_path = r"D:\YossiY4\Desktop\GitHub_Folder\AI_videos_filter\Folders\relevant_files"
-img_path = r"D:\YossiY4\Desktop\GitHub_Folder\AI_videos_filter\Folders\temp_frame.jpg" #add \frame.jpg
+img_path = r"D:\YossiY4\Desktop\GitHub_Folder\AI_videos_filter\Folders\temp_frame\frame.jpg" #add \frame.jpg
  
 ##########################################################################################
 
